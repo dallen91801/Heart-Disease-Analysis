@@ -10,6 +10,7 @@ Major observations are listed below.
 #
 •	Cardiac fluoroscopy to measure calcification of major vessels was a strong indicator of development of heart disease.
 
+#
 Major limitations of analyses are listed below.
 #
 •	The dataset was relatively small and with lower percentage of females compared to males.
