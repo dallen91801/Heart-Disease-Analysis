@@ -1,5 +1,4 @@
-# Project-1
-Read me
+# Project-1 Read me
 
 Our objective for this project is to analyze a heart dataset and establish a correlation among number of cardiac test variables to heart disease.
 #
