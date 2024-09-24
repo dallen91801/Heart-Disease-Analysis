@@ -3,7 +3,9 @@
 Our objective for this project is to analyze a heart dataset and establish a correlation among number of cardiac test variables to heart disease.
 #
 •	Data Source: Original data is from a clinical study conducted in 1989 and published in the American Journal of Cardiology. The title is: "International Application of a New Probability 
-Algorithm for the Diagnosis of Coronary Artery" by Detrano et. al. 
+Algorithm for the Diagnosis of Coronary Artery" by Detrano et. al. 1989. The data is also available on Kaggle Heart Disease Dataset (kaggle.com)
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
 
 #
 Major observations are listed below.
@@ -23,3 +25,6 @@ Major limitations of analyses are listed below.
 #
 •	Analysis could not establish interdependence among number of variables and heart disease outcome.
 
+#
+•	The group presentation is available at: #
+https://docs.google.com/presentation/d/1quj41RWc7e0ZAL_RzmAEYelfGfuSSD2WnHmeOPNvNVc/edit#slide=id.p
