@@ -2,6 +2,10 @@
 
 Our objective for this project is to analyze a heart dataset and establish a correlation among number of cardiac test variables to heart disease.
 #
+•	Data Source: Original data is from a clinical study conducted in 1989 and published in the American Journal of Cardiology. The title is: "International Application of a New Probability 
+Algorithm for the Diagnosis of Coronary Artery" by Detrano et. al. 
+
+#
 Major observations are listed below.
 #
 •	Sex was a major determinant for heart disease. Females were less likely to develop heart disease than males.
