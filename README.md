@@ -26,5 +26,5 @@ Major limitations of analyses are listed below.
 •	Analysis could not establish interdependence among number of variables and heart disease outcome.
 
 #
-•	The group presentation is available at: #
+•	The group presentation is available at: 
 https://docs.google.com/presentation/d/1quj41RWc7e0ZAL_RzmAEYelfGfuSSD2WnHmeOPNvNVc/edit#slide=id.p
